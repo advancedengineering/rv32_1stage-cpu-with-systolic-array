@@ -1,0 +1,2 @@
+单独在Sodor1STAGE emulator中跑，不能再Chipyard跑
+TPU、PE、Controller、datapath为自写代码
